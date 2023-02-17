@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Music Near Me",
+    "text": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "user_id":1,
+    "created_at":"2023-02-14 08:00:00"
+  },
+  {
+    "title": "Music Near You",
+    "text": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "user_id":2,
+    "created_at":"2023-02-14 08:00:00"
+  },
+  {
+    "title": "Music Near Us",
+    "text": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "user_id":3,
+    "created_at":"2023-02-14 08:00:00"
+  }
+]
